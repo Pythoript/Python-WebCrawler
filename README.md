@@ -30,3 +30,4 @@ Ensure you have Python installed on your system. Then, install the required depe
 - **Pagination Support**: Currently, the crawler does not handle pagination
 - **Concurrent Operations**: Future versions should allow for concurrent crawling
 - **Smart Rate Limiting**: Limit the number requests to prevent server throttling
+- **Check For Robots.txt**: Comply with robots.txt when crawling
